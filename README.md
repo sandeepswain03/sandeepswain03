@@ -1,5 +1,7 @@
 <p align="left"> <a href="https://twitter.com/sandeep swain" target="blank"><img src="https://img.shields.io/twitter/follow/sandeep swain?logo=twitter&style=for-the-badge" alt="sandeep swain" /></a> </p>
 
+- 💫 ABOUT ME:
+
 - 🔭 I’m currently working on **Frontend Projects**
 
 - 🌱 I’m currently learning **React and Redux**
