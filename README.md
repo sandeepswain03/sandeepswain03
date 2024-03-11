@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://twitter.com/sandeepswain06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeepswain06" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandeep-swain-845b53249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-swain-845b53249" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sandeep_swain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep_swain" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">💻 Tech Stacks:</h1>
