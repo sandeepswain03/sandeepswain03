@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## About Me
+## ✨About Me
 - 🔭 I’m a Full Stack Developer specializing in **Next.js, TypeScript, and MERN stack**
 - 🌱 I’m learning **DevOps and AI**, and I’m a **curious learner** always exploring new technologies
 - 🎓 I’m a **3rd-year BTech student** at **Charusat University**
@@ -14,7 +14,7 @@
 
 ---
 
-## Languages and Tools I Use 👨🏻‍💻
+## 👨🏻‍💻Languages and Tools I Use 
 
 <table align="center">
     <tr>
