@@ -1,36 +1,81 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_MigSXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="left">💫About Me:</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Hello 👋, I'm Sandeep swain
+## Full-Stack Web Developer | Computer Science Engineering Student
 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+## About Me
+- 🔭 I’m a Full Stack Developer specializing in **Next.js, TypeScript, and MERN stack**
+- 🌱 I’m learning **DevOps and AI**, and I’m a **curious learner** always exploring new technologies
+- 🎓 I’m a **3rd-year BTech student** at **Charusat University**
+- 💬 Feel free to ask me about **Next.js, TypeScript, MERN stack**
+- 🚀 I enjoy **working on challenging projects** and **collaborating with others** to solve problems
+- 📈 I’m passionate about **staying updated with industry trends** and continuously **improving my skills**
+- 📫 Reach out to me via **[Email](mailto:sandeepswain2004@gmail.com)**
+
+---
+
+## Languages and Tools I Use 👨🏻‍💻
+
+<table align="center">
+    <tr>
+        <td><b>Languages:</b></td>
+        <td><img height="30" src="https://skillicons.dev/icons?i=js,ts,python"/></td>
+    </tr>
+    <tr>
+        <td><b>Backend:</b></td>
+        <td><img height="30" src="https://skillicons.dev/icons?i=nodejs,express"/></td>
+    </tr>
+    <tr>
+        <td><b>Frontend:</b></td>
+        <td><img height="30" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,mui,redux,html,css,"/></td>
+    </tr>
+    <tr>
+        <td><b>Database/ORM/ODM:</b></td>
+        <td><img height="30" src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma"/></td>
+    </tr>
+    <tr>
+        <td><b>DevOps:</b></td>
+        <td><img height="30" src="https://skillicons.dev/icons?i=docker,vercel,netlify,aws"/></td>
+    </tr>
+    <tr>
+        <td><b>Automated Testing:</b></td>
+        <td><img height="30" src="https://skillicons.dev/icons?i=jest"/></td>
+    </tr>
+    <tr>
+        <td><b>Version Control:</b></td>
+        <td><img height="30" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td><b>IDEs:</b></td>
+        <td><img height="30" src="https://skillicons.dev/icons?i=vscode,replit"/></td>
+    </tr>
+    <tr>
+        <td><b>Other Tools:</b></td>
+        <td><img height="30" src="https://skillicons.dev/icons?i=appwrite,firebase,npm,figma"/></td>
+    </tr>
+    <tr>
+        <td><b>Operating Systems:</b></td>
+        <td><img height="30" src="https://skillicons.dev/icons?i=windows,linux"/></td>
+    </tr>
+</table>
+
+---
+
+## 📫 How to reach me:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sandeep-swain-845b53249) 
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sandeepswain03) 
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sandeepswain06)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sandeepswain2004@gmail.com)
+
+---
+
+<!--profile visit count-->
+<div align="center">
   
+[![](https://visitcount.itsvg.in/api?id=Parag0712&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
-- 🔭 I’m currently working on *Full Stack Projects*
-
-- 🌱 I’m currently learning *Devops*
-
-- 👯 I’m looking to collaborate on *Full Stack Projects*
-
-- ⚡ Fun fact *Your Life is Fun Until the Server Craches!*
-
-<h1 align="left">🌐 Socials:</h1>
-<p align="left">
-<a href="https://twitter.com/sandeepswain06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeepswain06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandeep-swain-845b53249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-swain-845b53249" height="30" width="40" /></a>
-</p>
-
-<h1 align="left">💻 Tech Stacks:</h1>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
-
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align="center"/>
+</a>
