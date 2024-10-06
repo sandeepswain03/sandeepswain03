@@ -1,17 +1,15 @@
 # Hello 👋, I'm Sandeep swain
-## Full-Stack Web Developer | Computer Science Engineering Student
+## Full-Stack Web Developer | Computer Science Engineering
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## ✨About Me
-- 🔭 I’m a Full Stack Developer specializing in **Next.js, TypeScript, and MERN stack**
-- 🌱 I’m learning **DevOps and AI**, and I’m a **curious learner** always exploring new technologies
-- 🎓 I’m a **3rd-year BTech student** at **Charusat University**
-- 💬 Feel free to ask me about **Next.js, TypeScript, MERN stack**
-- 🚀 I enjoy **working on challenging projects** and **collaborating with others** to solve problems
-- 📈 I’m passionate about **staying updated with industry trends** and continuously **improving my skills**
-- 📫 Reach out to me via **[Email](mailto:sandeepswain2004@gmail.com)**
-
+🔭 Full Stack Developer specializing in Next.js, TypeScript, and MERN stack
+🌱 Learning DevOps and AI; always exploring new technologies
+🎓 3rd-year BTech student at Charusat University
+💬 Ask me about Next.js, TypeScript, MERN stack
+🚀 Love tackling challenging projects and collaborating to solve problems
+📈 Passionate about industry trends and continuous skill improvement
 ---
 
 ## 👨🏻‍💻Languages and Tools I Use 
