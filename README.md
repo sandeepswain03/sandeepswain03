@@ -5,7 +5,7 @@
 
 ## ✨About Me
 - 🔭 Full Stack Developer specializing in Next.js, TypeScript, and MERN stack**
-- 🌱 Learning DevOps and AI; always exploring new technologies**
+- 🌱 Learning Rust and AI; always exploring new technologies**
 - 🎓 3rd-year BTech student at Charusat University**
 - 💬 Ask me about Next.js, TypeScript, MERN stack**
 - 🚀 Love tackling challenging projects and collaborating to solve problems**
